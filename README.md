@@ -1,6 +1,9 @@
+# Cadabra tutorials for Google Colab
 
-These are auto-generated Jupyter notebooks of the Cadabra tutorials at
+Generated automatically from `examples/*.cnb` in
+[kpeeters/cadabra2](https://github.com/kpeeters/cadabra2) by the workflow
+`.github/workflows/colab.yml` there; do not edit this repository by hand.
 
-  https://cadabra.science/tutorials.html
-  
-ready to use in Google Colab.
+Open a notebook with
+`https://colab.research.google.com/github/kpeeters/cadabra2-colab/blob/main/<name>.ipynb`,
+or use the links on <https://cadabra.science/tutorials.html>.
